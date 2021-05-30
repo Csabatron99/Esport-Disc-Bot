@@ -4,7 +4,7 @@ import random
 
 CLIENT = discord.Client()
 
-TOKEN = 'MzIwNjM0MTY2ODcyMTEzMTUz.WTMD1g.qF7yZZY9pEheBbMtOWsbhi_uaG0'
+TOKEN = 'TOKEN HERE'
 
 
 @CLIENT.event
