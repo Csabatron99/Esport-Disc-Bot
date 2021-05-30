@@ -21,6 +21,7 @@ async def on_message(message):
         await message.channel.send('Halika :3 ')
     if message.content.startswith('!parancsok'):
         await message.channel.send('!hi \n'
+                                   '!parancsok \n'                                   
                                    '!meme')
     if message.content.startswith('!meme'):  
         wrap = discord.Embed(title="", type="rich")
